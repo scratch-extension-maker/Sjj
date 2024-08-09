@@ -1,1 +1,1 @@
-Humanoid.JumpPower = 1000
+Humanoid.JumpPower = 9999
